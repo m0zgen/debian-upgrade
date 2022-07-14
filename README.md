@@ -13,3 +13,8 @@ Run `apt` commands:
 ```
 apt update; apt -y upgrade; apt -y full-upgrade; apt -y --purge autoremove
 ```
+
+With `start.sh` argument:
+```
+./start.sh -a
+```
